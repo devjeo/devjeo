@@ -56,14 +56,14 @@ I'm a passionate developer who loves turning complex problems into elegant, user
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjeo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devjeo&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjeo&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -73,9 +73,9 @@ I'm a passionate developer who loves turning complex problems into elegant, user
 <!-- This section shows a snake eating your contribution graph. It updates automatically via a GitHub Action -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjeo/devjeo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjeo/devjeo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/devjeo/devjeo/output/github-snake.svg" />
   </picture>
 </div>
 
