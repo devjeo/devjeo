@@ -14,7 +14,7 @@ I'm a passionate developer who loves turning complex problems into elegant, user
 - 🌱 I’m currently learning: **`[New Tech You're Learning]`**
 - 👯 I’m looking to collaborate on: **`[Type of Projects]`**
 - 💬 Ask me about: **`[Your Expertise]`**
-- 📫 How to reach me: **[Your Email / Social Link]**
+- 📫 How to reach me: **princejeorgeojeda@gmail.com**
 - ⚡ Fun fact: **`[A fun fact about you]`**
 
 ---
