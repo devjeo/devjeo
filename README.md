@@ -13,7 +13,7 @@ I'm a full-stack developer who enjoys turning complex problems into clean, user-
 | | |
 |---|---|
 | **Currently working on** | `CampusGig` |
-| **Currently learning** | `` |
+| **Currently learning** | `Ethical hacking basics` |
 | **Looking to collaborate on** | `Mobile apps & Websites` |
 | **Ask me about** | `Flutter app development & cross-platform mobile apps` |
 | **Reach me at** | princejeorgeojeda@gmail.com |
