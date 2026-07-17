@@ -83,8 +83,6 @@ I'm a full-stack developer who enjoys turning complex problems into clean, user-
   </picture>
 </div>
 
-> Note: this only renders once the [snake workflow](https://github.com/Platane/snk) is set up in this repository and has run at least once.
-
 ---
 
 ## Let's Connect
