@@ -61,7 +61,7 @@ I'm a full-stack developer who enjoys turning complex problems into clean, user-
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjeo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=devjeo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devjeo&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
