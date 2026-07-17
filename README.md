@@ -12,12 +12,12 @@ I'm a full-stack developer who enjoys turning complex problems into clean, user-
 
 | | |
 |---|---|
-| **Currently working on** | `[your current project]` |
-| **Currently learning** | `[technology you're learning]` |
-| **Looking to collaborate on** | `[type of projects]` |
-| **Ask me about** | `[your areas of expertise]` |
+| **Currently working on** | `CampusGig` |
+| **Currently learning** | `` |
+| **Looking to collaborate on** | `Mobile apps & Websites` |
+| **Ask me about** | `Flutter app development & cross-platform mobile apps` |
 | **Reach me at** | princejeorgeojeda@gmail.com |
-| **Fun fact** | `[a fun fact about you]` |
+| **Fun fact** | `` |
 
 ---
 
